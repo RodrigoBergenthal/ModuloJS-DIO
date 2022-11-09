@@ -74,5 +74,5 @@ Else if
 
 e finaliza com 
 
->>>>>>> 55e71e4 (teste)
+>>>>>>> (teste)
 Else
