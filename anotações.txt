@@ -74,5 +74,4 @@ Else if
 
 e finaliza com 
 
->>>>>>> (teste)
 Else
