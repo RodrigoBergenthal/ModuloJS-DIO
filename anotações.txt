@@ -75,3 +75,13 @@ Else if
 e finaliza com 
 
 Else
+
+anotações aula 1 listas (arrays)
+const nome = 'Rodrigo Pereira Bergenthal';
+
+
+for (let i = 0; i < nome.length; i++) {
+    const letra = nome[i];
+    console.log(letra)
+    
+}
