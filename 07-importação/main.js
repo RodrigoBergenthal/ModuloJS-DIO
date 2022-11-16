@@ -16,3 +16,4 @@ for (let i = 0; i < numerosSorteados.length; i++) {
         maiorValor = numerosSorteado;
     }
 }
+print (maiorValor)
